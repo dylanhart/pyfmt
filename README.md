@@ -10,10 +10,10 @@ usage: `%pyfmt [<selection>[,...]] <file>`
 
 ### Selection Syntax
 
-|type|syntax|
-|-|-|
-|region|`r<region-name>`|
-|lines|`l<start>:<end>`|
+| type | syntax |
+| --- | --- |
+| region | `r<region-name>` |
+| lines | `l<start>:<end>` |
 
 
 ### example cell
